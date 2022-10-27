@@ -3,5 +3,7 @@
   <li>Creating a MASM project in Visual Studio, studying the stages of source code processing, researching project properties in the Visual Studio integrated development environment.: <a href="https://github.com/zephyrXXX/Applications-Software-design/blob/master/asm01.pdf">Tasks</a> | <a href="https://github.com/zephyrXXX/Applications-Software-design/blob/master/LP_asm1.asm">Solution</a>;</li>
   <li>Creating a MASM project in Visual Studio, learning the ADD and MOV assembler commands: <a href="https://github.com/zephyrXXX/Applications-Software-design/blob/master/asm02.pdf">Tasks</a> | <a href="https://github.com/zephyrXXX/Applications-Software-design/blob/master/LP_asm2.asm">Solution</a>;</li>
   <li>Creating a MASM project in Visual Studio in assembly language, using indirect addressing, transition commands and loops: <a href="https://github.com/zephyrXXX/Applications-Software-design/blob/master/asm03.pdf">Tasks</a> | <a href="https://github.com/zephyrXXX/Applications-Software-design/blob/master/LP_asm3.asm">Solution</a>;</li>
-  <!-- <li><a href="">Tasks</a> | <a href="">Solution</a>;</li> -->
+  <li>Development of a function for converting an expression into the form of a Polish record: <a href="https://github.com/zephyrXXX/Applications-Software-design/blob/master/18_%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B2%D1%8B%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9.pdf">Tasks</a> | <a href="https://github.com/zephyrXXX/Applications-Software-design/blob/master/Lab18.cpp">Solution</a>;</li>
+ 
+ <!-- <li><a href="">Tasks</a> | <a href="">Solution</a>;</li> -->
 </ul>
